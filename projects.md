@@ -11,13 +11,36 @@ permalink: /projects/
 
 ## Previous Projects
 
-**June 2016 - August 2016**
+**November 2016 - June 2017**
+
+**Experimental and Numerical Simulation of Blood Vessel Flow Based On 3D Printing**
+
+Advisor: [Prof. Jiemin Zhan (SYSU)](https://baike.baidu.com/item/%E8%A9%B9%E6%9D%B0%E6%B0%91)        November 2016 - June 2017
+•	Designed the physical experiment based on 3D printing model of blood vessel. 
+•	Used ANSYS to do numerical simulation of the healthy model and AAA, compare the results with physical experiment.
+•	Analysis how blood flow affects the pathology and rupture mechanisms of AAA to help physicians design regimens.
+
+
+**January - June 2017**
+
+**Diesel Supercharger Snowmobile Rotor Integration**
+
+Advisor: [Prof. Razi Nalim (IUPUI)] (https://et.iupui.edu/people/mnalim)                                   June - August 2016
+
+•	Redesign the rotor fit for the design requirements (includes pressure, comprex, and thermal expansion)
+
+•	Find new material (steel 1010) and new method (jetting) to manufacture the rotor. (cost under 1000 dollars)
+
+
+**June - August 2016**
+
 **Smart City Surveillance Leveraging Vehicle-Mounted Sensing Capabilities**                    
 Advisor: [Prof. Hongbo Liu (IUPUI)](https://scholar.google.co.uk/citations?user=0vlJjIUAAAAJ&hl=en)    
 
-                                                                                                            June - August 2016
-•	Used Android Studios to design a user application to provide assistance on optimal daily planning for the urban residents.  
+•	Used Android Studios to design a user application to provide assistance on optimal daily planning for the urban residents. 
+
 •	Designed a sensing application by Android Studios and Java, which can collect data (includes location, wireless signal scanning and collection, live road pictures & videos) from a g-sensor-equipped vehicle and send them to server. 
+
 •	Designed a signal den algorithm and filter to analyze the collected data and live road conditions.
 
 
@@ -38,15 +61,13 @@ Advisor: [Prof. Hongbo Liu (IUPUI)](https://scholar.google.co.uk/citations?user=
 •	Change the input or output flow rate, use the Tecplot to gain the different 3D vector field and analyze. 
 
 
-**June 2016 - July 2016**
-
 **Training on Product Lifecycle Management (PLM) system, Siemens Teamcenter** ([Prof. Hazim El-Mounayri](https://scholar.google.com/citations?user=q6rEN2oAAAAJ&hl=en), [Dr. Shuning Li](https://et.iupui.edu/people/li33))
+**June - July 2016**
 
 •	Learned Training on Teamcenter document management, product structure management, and workflow management.
 
-**May 2016 - Sept 2016**
-
 **Non-invasive Assessment of Renal Artery Stenosis to Renal Resistance**
+**May - Sept 2016**
 
 Advisor: [Prof. Huidan (Whitney) Yu] (https://et.iupui.edu/people/whyu)), [Dr. A. P. Sawchuk](https://health.usnews.com/doctors/alan-sawchuk-326175) (MD, Vascular Surgeon of IU Health)  
 
