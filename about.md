@@ -10,7 +10,7 @@ I am a Ph.D. student in the [Dyson School of Design Engineering](http://www.impe
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and Human-Data Interaction.
 
-### Academic Background
+### Education
 
 2018.9-Current, **PhD student** at [Imperial College London, *UK*](https://www.imperial.ac.uk)
 
