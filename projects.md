@@ -17,6 +17,9 @@ permalink: /projects/
 
 **Mars Suit**
 
+Advisor: [Prof. Boris Rubinaky](https://me.berkeley.edu/people/boris-rubinsky/), [Dr. Lawrence Kuznetz](https://www.thespaceshow.com/guest/dr.-lawrence-kuznetz)
+
+•	Researched and prototyped an E.V.A glove intended for future mars expeditions that can preserve the funtionality of a user's hand while minimizing injuries and discomfort ([Paper]())
 
 **January - May 2018**
 
