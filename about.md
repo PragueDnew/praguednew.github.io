@@ -8,6 +8,13 @@ I am a Ph.D. student in the [Dyson School of Design Engineering](http://www.impe
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and Human-Data Interaction. My supervisor at Imperial College London is Dr. Hamed Haddadi, who leads the [Systems and Algorithms Laboratory (SysAl)](https://www.imperial.ac.uk/sysal){:target="_blank"}. He is also an Academic Fellow of the Data Science Institute[Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"}.
 
+### Academic Backgroud
+
+2018.9-   PhD student at [Imperial College London](https://www.imperial.ac.uk)
+2017.8-2018.6 **Master of Engineering**, [University of California, Berkeley](https://www.berkeley.edu)
+2015.8-2017.6 **Bachelor of Science in Mechanical Engineering**, [Purdue Unviersity](https://www.purdue.edu)
+2013.8-2017.6 **Bachelor of Science in Theoretical and Applied Mechanics**, [Sun Yar-sen University](http://www.sysu.edu.cn/2012/en/index.htm)
+
 ### Contact me
 
 [yuting.zhan18@imperial.ac.uk](mailto:yuting.zhan18@imperial.ac.uk)
