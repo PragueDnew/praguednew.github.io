@@ -30,7 +30,7 @@ Advisor: [Prof. Boris Rubinaky](https://me.berkeley.edu/people/boris-rubinsky/),
 
 **Future Commuting: Modularity Car**
 
-Advisor: [Dr. Kuan Ju Wu], [Dr. Brian Hinch]
+Advisor: [Dr. Kuan Ju Wu](https://wukuanju.com/work/), [Dr. Brian Hinch](https://www.linkedin.com/in/brianhinch)
 
 •	[Demo link](https://www.youtube.com/watch?v=ceWXAGqw_zM)
 
