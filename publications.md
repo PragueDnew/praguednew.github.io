@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: publications
 permalink: /publications/
 ---
 
-## Publication
+## Publications
 
