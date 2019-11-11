@@ -16,7 +16,7 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 2015.8-2017.6, [Purdue Unviersity](https://www.purdue.edu), **Bachelor of Science in Mechanical Engineering**
 
-2013.8-2017.6, [Sun Yar-sen University](http://www.sysu.edu.cn/2012/en/index.htm), **Bachelor of Science in Theoretical and Applied Mechanics**
+2013.8-2017.6, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), **Bachelor of Science in Theoretical and Applied Mechanics**
 
 ### Contact me
 
