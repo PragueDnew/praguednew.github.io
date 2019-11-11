@@ -27,7 +27,7 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 2013.8-2017.6, [Sun Yat-sen University, *CHINA*](http://www.sysu.edu.cn/2012/en/index.htm), 
 **Bachelor of Science in Theoretical and Applied Mechanics**
 
-*Thesis: Physical Experiment and Numerical Simulation of Vascular Flow Based on 3D Printing*([Thesis]((https://yutingzhan.github.io/papers/Vanguard_Final_Paper.pdf)))
+*Thesis: Physical Experiment and Numerical Simulation of Vascular Flow Based on 3D Printing*([Thesis]((https://yutingzhan.github.io/papers/sysu.pdf)))
 
 ### Contact me
 
