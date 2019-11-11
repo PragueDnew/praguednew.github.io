@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Current Projects
-
-For project details, please visit the Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal)) pages.
+2018.9-Current UK DRI Care Research & Technology programme
+2018.9-Current Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal))
 
 ## Previous Projects
