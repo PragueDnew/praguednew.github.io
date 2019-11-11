@@ -6,7 +6,7 @@
 name: Yuting Zhan
 
 # Short bio or description (displayed in the header)
-description: PhD Candidate at Imperial College London
+description: PhD Student at Imperial College London
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: yuting.zhan18@imperial.ac.uk
   facebook:
   flickr:
   github: yutingzhan
