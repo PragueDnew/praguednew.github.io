@@ -13,7 +13,7 @@ permalink: /projects/
 
 ## Previous Projects (Master Period)
 
-**August 2017 - June 2018 **
+**August 2017 - June 2018**
 
 **Mars Suit**
 
