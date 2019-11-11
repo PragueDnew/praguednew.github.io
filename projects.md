@@ -9,15 +9,43 @@ permalink: /projects/
 
 *2018.9-Current* Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal))
 
-## Previous Projects
+
+
+## Previous Projects (Master Period)
+
+**August 2017 - June 2018 **
+
+**Mars Suit**
+
+
+**January - May 2018**
+
+**Immersive Technologies for Product Designers**
+
+
+**August - December 2017**
+
+**Improving the experience of Breakups for those in a New City**
+
+
+**August - October 2017**
+
+**Leadership Course**
+
+
+
+## Previous Projects (Undergraduate Period)
 
 **November 2016 - June 2017**
 
 **Experimental and Numerical Simulation of Blood Vessel Flow Based On 3D Printing**
 
 Advisor: [Prof. Jiemin Zhan (SYSU)](https://baike.baidu.com/item/%E8%A9%B9%E6%9D%B0%E6%B0%91)        November 2016 - June 2017
+
 •	Designed the physical experiment based on 3D printing model of blood vessel. 
+
 •	Used ANSYS to do numerical simulation of the healthy model and AAA, compare the results with physical experiment.
+
 •	Analysis how blood flow affects the pathology and rupture mechanisms of AAA to help physicians design regimens.
 
 
