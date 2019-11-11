@@ -12,11 +12,11 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 2018.9-   PhD student at [Imperial College London](https://www.imperial.ac.uk)
 
-2017.8-2018.6 **Master of Engineering**, [University of California, Berkeley](https://www.berkeley.edu)
+2017.8-2018.6, [University of California, Berkeley](https://www.berkeley.edu), **Master of Engineering**
 
-2015.8-2017.6 **Bachelor of Science in Mechanical Engineering**, [Purdue Unviersity](https://www.purdue.edu)
+2015.8-2017.6, [Purdue Unviersity](https://www.purdue.edu), **Bachelor of Science in Mechanical Engineering**
 
-2013.8-2017.6 **Bachelor of Science in Theoretical and Applied Mechanics**, [Sun Yar-sen University](http://www.sysu.edu.cn/2012/en/index.htm)
+2013.8-2017.6, [Sun Yar-sen University](http://www.sysu.edu.cn/2012/en/index.htm), **Bachelor of Science in Theoretical and Applied Mechanics**
 
 ### Contact me
 
