@@ -19,11 +19,49 @@ permalink: /projects/
 
 Advisor: [Prof. Boris Rubinaky](https://me.berkeley.edu/people/boris-rubinsky/), [Dr. Lawrence Kuznetz](https://www.thespaceshow.com/guest/dr.-lawrence-kuznetz)
 
-•	Researched and prototyped an E.V.A glove intended for future mars expeditions that can preserve the funtionality of a user's hand while minimizing injuries and discomfort ([Paper]())
+•	Researched and prototyped an E.V.A glove intended for future mars expeditions that can preserve the funtionality of a user's hand while minimizing injuries and discomfort ([url](https://yutingzhan.github.io/papers/Vanguard_Final_Paper.pdf))
+
+**February - June 2018**
+
+**Future Commuting: Modularity Car**
+
+Advisor: [Dr. Kuan Ju Wu], [Dr. Brian Hinch]
+
+•	[Demo link](https://www.youtube.com/watch?v=ceWXAGqw_zM)
+
+
+**April 2018**
+
+**Connex:**
+
+Advisor: [Prof. Eric Paulos](http://www.paulos.net/)
+
+•	[Demo link](https://www.youtube.com/watch?v=bfEgyrfSTxg&list=PLbok9t2URfW3bBlOgkeCh9KLbFriWobwK&index=4)
+
+
+**March 2018**
+
+**Social Butterfly**
+
+Advisor: [Prof. Eric Paulos](http://www.paulos.net/)
+
+•	[Demo link](https://www.youtube.com/watch?v=j9GeScgxIVs&list=PLbok9t2URfW2KXDP0DzB2gbUNEDPEUn3p&index=4)
+
+
+**Feb 2018**
+
+**Hatt-Un**
+
+Advisor: [Prof. Eric Paulos](http://www.paulos.net/)
+
+•	[Demo link](https://www.youtube.com/watch?v=CzwXdn5K7Ug&list=PLbok9t2URfW1m86pn1qraZf4PmnHNpU64&index=7)
+
 
 **January - May 2018**
 
 **Immersive Technologies for Product Designers**
+
+Advisor:
 
 
 **August - December 2017**
