@@ -15,7 +15,7 @@ permalink: /projects/
 
 **August 2017 - June 2018**
 
-**Mars Suit**
+**Mars Suit** ([Report](https://yutingzhan.github.io/papers/Vanguard_Final_Paper.pdf))
 
 Advisor: [Prof. Boris Rubinaky](https://me.berkeley.edu/people/boris-rubinsky/), [Dr. Lawrence Kuznetz](https://www.thespaceshow.com/guest/dr.-lawrence-kuznetz)
 
@@ -28,11 +28,11 @@ Advisor: [Prof. Boris Rubinaky](https://me.berkeley.edu/people/boris-rubinsky/),
 
 **February - June 2018**
 
-**Future Commuting: Modularity Car**
+**Future Commuting: Modularity Car** [Demo](https://www.youtube.com/watch?v=ceWXAGqw_zM)
 
 Advisor: [Dr. Kuan Ju Wu](https://wukuanju.com/work/), [Dr. Brian Hinch](https://www.linkedin.com/in/brianhinch)
 
-•	[Demo link](https://www.youtube.com/watch?v=ceWXAGqw_zM)
+•	
 
 
 **April 2018**
