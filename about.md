@@ -12,19 +12,27 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 ### Education
 
-2018.9-Current, **PhD student** at [Imperial College London, *UK*](https://www.imperial.ac.uk)
+2018.9-Current
 
-2017.8-2018.6, [University of California, Berkeley, *US*](https://www.berkeley.edu), 
+**PhD student** at [Imperial College London, *UK*](https://www.imperial.ac.uk)
+
+2017.8-2018.6
+
+[University of California, Berkeley, *US*](https://www.berkeley.edu), 
 **Master of Engineering**
 
 *Thesis: Vanguard Space Gloves: Research and prototyping an E.V.A glove intended for future mars experditions that can preserve the functionality of a user's hand while minimizing injuries and discomfort.* ([Thesis]((https://yutingzhan.github.io/papers/Vanguard_Final_Paper.pdf)))
 
-2015.8-2017.6, [Purdue Unviersity, *US*](https://www.purdue.edu), 
+2015.8-2017.6
+
+[Purdue Unviersity, *US*](https://www.purdue.edu), 
 **Bachelor of Science in Mechanical Engineering**
 
 *Thesis: Diesel Supercharged Snowmobile Rotor Integration*([Poster](https://yutingzhan.github.io/images/FINAL_POSTER_New.pdf))
 
-2013.8-2017.6, [Sun Yat-sen University, *CHINA*](http://www.sysu.edu.cn/2012/en/index.htm), 
+2013.8-2017.6
+
+[Sun Yat-sen University, *CHINA*](http://www.sysu.edu.cn/2012/en/index.htm), 
 **Bachelor of Science in Theoretical and Applied Mechanics**
 
 *Thesis: Physical Experiment and Numerical Simulation of Vascular Flow Based on 3D Printing*([Thesis]((https://yutingzhan.github.io/papers/sysu.pdf)))
