@@ -333,4 +333,9 @@ title: 剩者第五章
 罗子君明显看到了，唐晶故意看向贺涵的眼神，与贺涵皱着的眉头与铁青的脸色。
 
 他还是没能习惯，自己的女孩属于另一个男人。
-![image](https://user-images.githubusercontent.com/95079792/143585738-5bb1fa51-1a99-4e01-8fcd-289d5de2806c.png)
+
+
+<a href="https://praguednew.github.io/shengzhe-four/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shengzhe-six/"> 下一章 </a>
