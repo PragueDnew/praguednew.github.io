@@ -2,7 +2,9 @@
 layout: post
 title: 小王子第四章 小王子走丢了
 ---
+<a href="https://praguednew.github.io/xiaowangzi-three/"> 上一章 </a>
 
+<a href="https://praguednew.github.io/xiaowangzi-five/"> 下一章 </a>
 
 “对我而言，你只是一个小男孩，和其他成千上万的小男孩没有什么不同。我不需要你。你也不需要我。”——《小王子》
 
@@ -360,4 +362,6 @@ title: 小王子第四章 小王子走丢了
 
 
 
+<a href="https://praguednew.github.io/xiaowangzi-three/"> 上一章 </a>
 
+<a href="https://praguednew.github.io/xiaowangzi-five/"> 下一章 </a>
