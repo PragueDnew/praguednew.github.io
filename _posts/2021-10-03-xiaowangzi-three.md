@@ -3,6 +3,10 @@ layout: post
 title: 小王子第三章 小王子与贺涵
 ---
 
+<a href="https://praguednew.github.io/xiaowangzi-two/"> 上一章 </a>
+
+<a href="https://praguednew.github.io/xiaowangzi-four/"> 下一章 </a>
+
 
 “有些事，流浪过才会懂。只有思念的人能相聚。”——《小王子》
 
@@ -354,3 +358,6 @@ title: 小王子第三章 小王子与贺涵
 
 晚安，小王子。
 
+<a href="https://praguednew.github.io/xiaowangzi-two/"> 上一章 </a>
+
+<a href="https://praguednew.github.io/xiaowangzi-four/"> 下一章 </a>
