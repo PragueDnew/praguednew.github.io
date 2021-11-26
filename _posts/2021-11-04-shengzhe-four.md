@@ -300,3 +300,8 @@ Adam却适时打了电话过来，询问是否需要帮唐晶新开一个房间�
 “我不会去的。”她有几分莫名的生气。
 
 “十分钟，我等你。”他并未理会她的愤怒，直接挂了电话。
+
+<a href="https://praguednew.github.io/shengzhe-three/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shengzhe-five/"> 下一章 </a>
