@@ -272,3 +272,9 @@ title: 剩者第三章
 她知道，他跟了上来。
 
 她站在门前顿住时，身后的人也同时顿住了脚步，她犹豫了几秒，才转动钥匙开了门。
+
+
+<a href="https://praguednew.github.io/shengzhe-three/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shengzhe-five/"> 下一章 </a>
