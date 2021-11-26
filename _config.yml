@@ -9,7 +9,7 @@ name: Prague_D
 description: 不定时更新
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/praguednew/praguednew.github.io/master/images/hetang.jpeg
+avatar: https://raw.githubusercontent.com/praguednew/praguednew.github.io/master/images/hetang.png
 
 #
 # Flags below are optional
@@ -28,8 +28,9 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://space.bilibili.com/13950223 # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
