@@ -378,3 +378,8 @@ B&T的大楼下，贺涵唐晶一前一后刚好抵达，在大厦门口相视�
 他看着怀中的她，满是柔情：“晚安。”
 
 “晚安。”
+
+<a href="https://praguednew.github.io/shichen-one/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shichen-three/"> 下一章 </a>
