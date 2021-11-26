@@ -3,6 +3,11 @@ layout: post
 title: 时辰 03 谷雨
 ---
 
+<a href="https://praguednew.github.io/shichen-two/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shichen-four/"> 下一章 </a>
+
 
 2010年4月20日，周二。谷雨。明朝知谷雨，无策禁花风。
 
@@ -517,3 +522,9 @@ Sierra Mar独特的建筑风格，又置身在太平洋的悬崖上，紧连着�
 那隐蔽的悬崖角落里，只有阳光与太平洋的海浪看见了露天浴缸里相拥而吻的人……
 
 绵绵不绝，深情平和……
+
+
+<a href="https://praguednew.github.io/shichen-two/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shichen-four/"> 下一章 </a>
