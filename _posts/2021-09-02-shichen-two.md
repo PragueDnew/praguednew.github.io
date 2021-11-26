@@ -2,6 +2,10 @@
 layout: post
 title: 时辰 02 清明
 ---
+<a href="https://praguednew.github.io/shichen-one/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shichen-three/"> 下一章 </a>
 
 2010年4月5日，清明，周一。况是清明好天气，不妨游衍莫忘归。
 
