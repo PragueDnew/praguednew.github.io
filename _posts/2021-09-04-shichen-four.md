@@ -3,6 +3,11 @@ layout: post
 title: 时辰 04 立夏
 ---
 
+<a href="https://praguednew.github.io/shichen-three/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shichen-five/"> 下一章 </a>
+
 
 2010年5月5日，周三。立夏。斗指东南，维为立夏，万物至此皆长大。
 
@@ -430,3 +435,8 @@ title: 时辰 04 立夏
 
 “我也信。”
 
+
+<a href="https://praguednew.github.io/shichen-three/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shichen-five/"> 下一章 </a>
