@@ -3,6 +3,8 @@ layout: post
 title: 小王子第五章 王子与玫瑰花
 ---
 
+<a href="https://praguednew.github.io/xiaowangzi-four/"> 上一章 </a>
+
 “我的那朵玫瑰，别人会以为她和你们一样。
 但她单独一朵就胜过你们全部。
 因为她是我浇灌的。
@@ -406,3 +408,5 @@ title: 小王子第五章 王子与玫瑰花
 她与小王子的身影不曾随时光逝去而变得黯淡，只是岁月蹉跎，贺涵也不知道自己是否真的会再次遇见她们。
 
 ### ——END
+
+<a href="https://praguednew.github.io/xiaowangzi-four/"> 上一章 </a>
