@@ -3,6 +3,10 @@ layout: post
 title: 小王子第二章 小王子的生日
 ---
 
+<a href="https://praguednew.github.io/xiaowangzi-one/"> 上一章 </a>
+
+<a href="https://praguednew.github.io/xiaowangzi-three/"> 下一章 </a>
+
 “如果不去遍历世界，我们就不知道什么是我们精神和情感的寄托，但我们一旦遍历了世界，却发现我们再也无法回到那美好的地方去了。当我们开始寻求，我们就已经失去，而我们不开始寻求，我们根本无法知道自己身边的一切是如此可贵。”——《小王子》
 
 小王子在第二天又遇到昨晚的那个男人，在他与洛洛的对话中，小王子记下了他的名字，贺涵。
@@ -351,3 +355,9 @@ title: 小王子第二章 小王子的生日
 小王子应该哭的，他不应该那么小就学会忍着那般多的泪水，这不是一个四岁小孩该有的样子。
 
 洛洛多希望有一天看到他能大哭大闹，会撒娇会耍无赖，而不是永远像是带着大人般冷静的思维看待这个世界。
+
+
+
+<a href="https://praguednew.github.io/xiaowangzi-one/"> 上一章 </a>
+
+<a href="https://praguednew.github.io/xiaowangzi-three/"> 下一章 </a>
