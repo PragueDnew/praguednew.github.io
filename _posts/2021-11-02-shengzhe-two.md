@@ -300,3 +300,8 @@ title: 剩者第二章
 “我想，她未必想跟我们打招呼。”
 
 罗子君不在说话，一滴眼泪落在碗中，她终是失去了唐晶，彻底背叛了她们的情谊。
+
+<a href="https://praguednew.github.io/shengzhe-one/"> 上一章 </a>
+
+
+<a href="https://praguednew.github.io/shengzhe-three/"> 下一章 </a>
