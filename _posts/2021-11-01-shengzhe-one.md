@@ -305,3 +305,5 @@ title: 剩者第一章
 
 “好。”
 
+
+<a href="https://praguednew.github.io/shengzhe-two/"> 下一章 </a>
