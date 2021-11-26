@@ -3,6 +3,8 @@ layout: post
 title: 时辰 05 小满
 ---
 
+<a href="https://praguednew.github.io/shichen-four/"> 上一章 </a>
+
 
 2010年5月21日，周五。小满。
 
@@ -477,4 +479,4 @@ title: 时辰 05 小满
 他再次将她拥入怀，把头肆意地埋在她的脖颈，她身上的味道，令他心安。
 
 
-
+<a href="https://praguednew.github.io/shichen-four/"> 上一章 </a>
