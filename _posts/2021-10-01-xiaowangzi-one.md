@@ -3,6 +3,8 @@ layout: post
 title: 小王子第一章 小王子的秋千
 ---
 
+<a href="https://praguednew.github.io/xiaowangzi-two/"> 下一章 </a>
+
 小王子今年四岁了，他问妈妈，妈妈，我生日那天你会回来吗？
 
 妈妈没有回答。
@@ -242,3 +244,5 @@ title: 小王子第一章 小王子的秋千
 “汤圆也还没吃。”
 
 “好，知道了。”
+
+<a href="https://praguednew.github.io/xiaowangzi-two/"> 下一章 </a>
