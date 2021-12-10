@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 远致 第二章
+title: 远致 第十八章
 ---
 
 <a href="https://praguednew.github.io/yuanzhi-seventeen/"> 上一章 </a>
