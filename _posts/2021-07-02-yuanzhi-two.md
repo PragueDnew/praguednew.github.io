@@ -4,6 +4,7 @@ title: 远致 第二章
 ---
 
 <a href="https://praguednew.github.io/yuanzhi-one/"> 上一章 </a>
+
 <a href="https://praguednew.github.io/yuanzhi-three/"> 下一章 </a>
 
 以后别做朋友，朋友不能牵手。——题记
@@ -243,4 +244,5 @@ Ihouse楼下的咖啡馆里，罗槟来找她时，正好撞见她笔记本上�
 ——《百年孤独》
 
 <a href="https://praguednew.github.io/yuanzhi-one/"> 上一章 </a>
+
 <a href="https://praguednew.github.io/yuanzhi-three/"> 下一章 </a>
