@@ -5,7 +5,7 @@ title: 远致 第八章
 
 <a href="https://praguednew.github.io/yuanzhi-seven/"> 上一章 </a>
 
-<a href="https://praguednew.github.io/yuanzhi-night/"> 下一章 </a>
+<a href="https://praguednew.github.io/yuanzhi-nine/"> 下一章 </a>
 
 “许一人以偏爱，尽余生以山海。”
 
@@ -343,4 +343,4 @@ title: 远致 第八章
 
 <a href="https://praguednew.github.io/yuanzhi-seven/"> 上一章 </a>
 
-<a href="https://praguednew.github.io/yuanzhi-night/"> 下一章 </a>
+<a href="https://praguednew.github.io/yuanzhi-nine/"> 下一章 </a>
