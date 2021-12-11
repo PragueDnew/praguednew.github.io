@@ -1,4 +1,5 @@
 ---
+layout: protected
 title: Example protected page
 password: s00pers3cr3t
 ---
