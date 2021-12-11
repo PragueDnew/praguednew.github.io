@@ -1,0 +1,5 @@
+---
+layout: encrypted
+---
+
+累了
