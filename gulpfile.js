@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@PragueDnew 
-lilykonings
-/
-jekyll-password-protect
-Public
-Code
-Issues
-2
-Pull requests
-4
-Actions
-Projects
-Wiki
-Security
-Insights
-jekyll-password-protect/gulpfile.js /
-@Firefox2100
-Firefox2100 Update gulpfile.js
-Latest commit ac14932 on 6 Mar 2020
- History
- 3 contributors
-@lilykonings@Firefox2100@mrlubos
-110 lines (90 sloc)  3.06 KB
-   
 'use strict';
 
 var gulp          = require('gulp');
@@ -120,8 +89,8 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('_protected/2021-07-01-yuanzhi-one.md')
-    .pipe(encrypt('1234'))
+  return gulp.src('_protected/*.*')
+    .pipe(encrypt('password'))
     .pipe(gulp.dest('_posts'));
 });
 
@@ -139,16 +108,3 @@ gulp.task('firewall', gulp.series('firewall:encrypt', 'firewall:watch',() => {})
 gulp.task('default', gulp.series('firewall', () => {
   // your tasks here
 }));
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
