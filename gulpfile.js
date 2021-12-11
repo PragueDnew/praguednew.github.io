@@ -89,13 +89,13 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('_protected/2018-02-04-super-secret-sauce.markdown')
+  return gulp.src('_protected/*.*')
     .pipe(encrypt('kening'))
-    .pipe(gulp.dest('_posts/2018-02-04-super-secret-sauce.markdown'));
+    .pipe(gulp.dest('_posts'));
 });
 
 gulp.task('firewall:watch', () => {
-  gulp.watch('_protected/2018-02-04-super-secret-sauce.markdown', gulp.series('firewall:encrypt'));
+  gulp.watch('_protected/*.*', gulp.series('firewall:encrypt'));
 });
 
 gulp.task('firewall', gulp.series('firewall:encrypt', 'firewall:watch',() => {}));
