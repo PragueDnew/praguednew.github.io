@@ -2,54 +2,33 @@
 layout: post
 ---
 
-<script src="/js/aes.js"></script>
-<script>
-function getByteLen(val) {
-    var len = 0;
-    for (var i = 0; i < val.length; i++) {
-        if (val[i].match(/[^\x00-\xff]/ig) != null) len += 3;
-        else len += 1;
-    }
-    return len;
-}
+<div id="encrypted_content">
+  <form id="encrypt_form" action="#" method="post">
+    <input id="encrypt_password"
+           type="password"
+           name="password"
+           placeholder="try 'password'"
+           autofocus />
 
-function onbtnDecrypto() {
-    var encryptedData = "{{ content  | strip_html | strip_newlines }}";
-    var keyword = document.getElementById("inputkey").value;
+    <input type="submit" value="Unlock"/>
+  </form>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
+  <script>
+    document.getElementById('encrypt_form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      var passphrase = document.getElementById('encrypt_password').value,
+          encryptedMsg = '{{ page.encrypted }}',
+          encryptedHMAC = encryptedMsg.substring(0, 64),
+          encryptedHTML = encryptedMsg.substring(64),
+          decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
 
-    if (keyword.replace(/(^\s*)|(\s*$)/g, "") == '') {
-        alert("请输入密码！");
+      if (decryptedHMAC !== encryptedHMAC) {
+        alert('Bad passphrase!');
         return;
-    }
-    while (getByteLen(keyword) % 8 != 0) {
-        keyword = keyword + "\0";
-    }
+      }
 
-    var key = CryptoJS.enc.Utf8.parse(keyword);
-    var encryptedHexStr = CryptoJS.enc.Hex.parse(encryptedData);
-    var encryptedBase64Str = CryptoJS.enc.Base64.stringify(encryptedHexStr);
-
-    var decryptedData = CryptoJS.AES.decrypt(encryptedBase64Str, key, {
-        mode: CryptoJS.mode.ECB,
-        padding: CryptoJS.pad.Pkcs7
+      var plainHTML = CryptoJS.AES.decrypt(encryptedHTML, passphrase).toString(CryptoJS.enc.Utf8);
+      document.getElementById('encrypted_content').innerHTML = plainHTML;
     });
-
-    if (decryptedData.sigBytes < 0) {
-        document.getElementById("output").innerHTML = "解密失败！密文或者key错误!";
-        return;
-    }
-    try {
-        decryptedData.toString(CryptoJS.enc.Utf8)
-    } catch(e) {
-        document.getElementById("output").innerHTML = "解密失败！密文或者key错误!";
-        return;
-    }
-    var decryptedStr = decryptedData.toString(CryptoJS.enc.Utf8);
-    document.getElementById("output").innerHTML = decryptedStr;
-    document.getElementById("pwinput").style.display = "none";
-}
-</script>
-<div id="pwinput">{{ page.tips | default: "请输入密码:" }}<br />
-   <input id="inputkey" type="password" /> <button onclick="onbtnDecrypto()">解密</button>
+  </script>
 </div>
-<div id="output"></div>  <br />
