@@ -89,13 +89,13 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('_protected/2021-07-01-yuanzhi-one.md')
+  return gulp.src('_protected/*.*')
     .pipe(encrypt('1234'))
     .pipe(gulp.dest('_posts'));
 });
 
 gulp.task('firewall:watch', () => {
-  gulp.watch('_protected/2021-07-01-yuanzhi-one.md', gulp.series('firewall:encrypt'));
+  gulp.watch('_protected/*.*', gulp.series('firewall:encrypt'));
 });
 
 gulp.task('firewall', gulp.series('firewall:encrypt', 'firewall:watch',() => {}));
