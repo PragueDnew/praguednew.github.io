@@ -89,9 +89,9 @@ function encrypt(password) {
 }
 
 gulp.task('firewall:encrypt', () => {
-  return gulp.src('_protected/*.*')
-    .pipe(encrypt('password'))
-    .pipe(gulp.dest('_posts'));
+  return gulp.src('_protected/2021-07-01-yuanzhi-one.md')
+    .pipe(encrypt('1234'))
+    .pipe(gulp.dest('_nposts'));
 });
 
 gulp.task('firewall:watch', () => {
