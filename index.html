@@ -16,19 +16,3 @@ layout: default
     </article>
   {% endfor %}
 </div>
-
-
-<div class="protected">
-  {% for pro in site.protected %}
-    <article class="pro">
-
-      <h1><a href="{{ site.baseurl }}{{ pro.url }}">{{ pro.title }}</a></h1>
-
-      <div class="entry">
-        {{ pro.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ pro.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
