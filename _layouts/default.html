@@ -34,7 +34,7 @@
             <a href="{{ site.baseurl }}/剩者">剩者</a>
             <a href="{{ site.baseurl }}/十年归零">十年归零</a>
             <a href="{{ site.baseurl }}/远致">远致</a>
-            <a href="{{ site.baseurl }}/玖别重逢">玖</a>
+            <a href="{{ site.baseurl }}/玖别重逢">玖别重逢</a>
           </nav>
         </header>
       </div>
@@ -94,6 +94,10 @@
         {% endif %}
         <p><small>Prague_D<br />Last updated at <script>document.write(lastUpdated.format("yyyy-MM-dd hh:mm:ss"));</script><br /> 总字数：{% assign count = 0 %}
 {% for post in site.posts %}
+    {% assign single_count = post.content | strip_html | strip_newlines | remove: " " | size %}
+    {% assign count = count | plus: single_count %}
+{% endfor %}
+{% for post in site.protected %}
     {% assign single_count = post.content | strip_html | strip_newlines | remove: " " | size %}
     {% assign count = count | plus: single_count %}
 {% endfor %}
