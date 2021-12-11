@@ -91,7 +91,7 @@ function encrypt(password) {
 gulp.task('firewall:encrypt', () => {
   return gulp.src('_protected/2018-02-04-super-secret-sauce.markdown')
     .pipe(encrypt('1234'))
-    .pipe(gulp.dest('_posts'));
+    .pipe(gulp.dest('_posts/2018-02-04-super-secret-sauce.markdown'));
 });
 
 gulp.task('firewall:watch', () => {
