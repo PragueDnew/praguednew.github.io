@@ -17,37 +17,22 @@ layout: default
 </article>
 
 
-<!--[if !IE]> -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<link rel="stylesheet" href="//cdn.bootcss.com/gitalk/1.5.0/gitalk.min.css">
+<script src="//cdn.bootcss.com/gitalk/1.5.0/gitalk.min.js"></script>
 
 <div id="gitalk-container"></div>
 
 <script>
-if (window.location.host != "praguednew.github.io")
 {
 var gitalk = new Gitalk({
-  clientID: '029ae00035480c79e9ef',
+  clientID: '029ae00035480c79e9ef', // GitHub Application Client ID
   clientSecret: '8633ae661c058f4307669e57ec2aa968626c1b6e',
-  repo: 'comment',
+  repo: 'gitalk-comment'      // 存放评论的仓库
   owner: 'PragueDnew',
   admin: ['PragueDnew'],
   id: '{{ page.id }}',      // Ensure uniqueness and length less than 50
   distractionFreeMode: false  // Facebook-like distraction free mode
 })
-}
-else
-{
-var gitalk = new Gitalk({
-  clientID: '029ae00035480c79e9ef',
-  clientSecret: '8633ae661c058f4307669e57ec2aa968626c1b6e',
-  repo: 'comment',
-  owner: 'PragueDnew',
-  admin: ['PragueDnew'],
-  id: '{{ page.id }}',      // Ensure uniqueness and length less than 50
-  distractionFreeMode: false  // Facebook-like distraction free mode
-})
-}
 
 gitalk.render('gitalk-container')
 </script>
