@@ -91,7 +91,7 @@ function encrypt(password) {
 gulp.task('firewall:encrypt', () => {
   return gulp.src('_protected/2021-07-01-yuanzhi-one.md')
     .pipe(encrypt('1234'))
-    .pipe(gulp.dest('_nposts'));
+    .pipe(gulp.dest('_posts'));
 });
 
 gulp.task('firewall:watch', () => {
