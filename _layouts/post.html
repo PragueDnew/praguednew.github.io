@@ -28,9 +28,9 @@ var gitalk = new Gitalk({
   clientID: '029ae00035480c79e9ef', // GitHub Application Client ID
   clientSecret: '8633ae661c058f4307669e57ec2aa968626c1b6e',
   repo: 'gitalk-comment'      // 存放评论的仓库
-  owner: 'PragueDnew',
-  admin: ['PragueDnew'],
-  id: '{{ page.id }}',      // Ensure uniqueness and length less than 50
+  owner: 'praguednew',
+  admin: ['praguednew'],
+  id: location.pathname,        // Ensure uniqueness and length less than 50
   distractionFreeMode: false  // Facebook-like distraction free mode
 })
 
